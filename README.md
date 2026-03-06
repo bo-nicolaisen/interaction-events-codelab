@@ -1,2 +1,2 @@
-# interaction-events-masterclass
-events in js
+# interaction-events-Codelab
+Brug template funktion og gå live med index filen.
